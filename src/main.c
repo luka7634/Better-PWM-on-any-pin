@@ -6,6 +6,9 @@
 
 #define DELAY_ms 3
 
+volatile uint8_t brightnessA;
+volatile uint8_t brightnessB;
+
 static inline void initTimer0(void)
 {
     TCCR0B |= (1 << CS01) | (1 << CS00);
