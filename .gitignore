@@ -1,0 +1,6 @@
+.vscode
+*.sim1
+*.o
+*.elf
+*.hex
+Doxyfile
