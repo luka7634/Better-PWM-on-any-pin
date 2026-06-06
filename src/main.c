@@ -4,3 +4,5 @@
 #include <avr/interrupt.h>
 #include "includes/pinDefines.h"
 
+#define DELAY_ms 3
+
