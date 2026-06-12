@@ -95,6 +95,12 @@ make clean
 - The main loop is only blocked by `_delay_ms` (does not affect PWM generation).
 - This code is fully compatible with ATmega168 (same Timer0 registers as ATmega328P).
 
+## Microcontroller's DataSheet
+
+[Click Here](https://html.alldatasheet.com/html-pdf/83753/ATMEL/ATMEGA168/6379/48/ATMEGA168.html)
+
+---
+
 ## 📄 License
 
 This project is distributed under the license found in the `LICENSE` file.
